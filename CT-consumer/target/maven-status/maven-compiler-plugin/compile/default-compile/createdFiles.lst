@@ -1,0 +1,4 @@
+com\ct\consumer\bean\Calllog.class
+com\ct\consumer\bean\CalllogConsumer.class
+com\ct\consumer\BootStrap.class
+com\ct\consumer\dao\HBaseDao.class
